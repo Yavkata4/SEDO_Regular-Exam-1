@@ -14,7 +14,10 @@ const quotes = [
     { text: "If life were predictable it would cease to be life, and be without flavor.", author: "Eleanor Roosevelt" },
     { text: "Life is what happens when you're busyy making other plans.", author: "John Lennon" },
 ];
-
+//COMMIT TEST 1
+//COMMIT TEST 2
+//COMMIT TEST 3
+console.log("Refactor test commit 3");
 // --- Functions ---
 function getRandomQuote() {
     const randomIndex = Math.floor(Math.random() * quotes.length);
