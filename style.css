@@ -35,9 +35,9 @@ h1 {
     padding: 20px;
     border-radius: 5px;
     margin-bottom: 25px;
-    min-height: 100px; /* Ensure space even for short quotes */
-    display: flex;
-    flex-direction: column;
+    min-height: 100px; /* COMMIT 1*/
+    display: flex; /* COMMIT 2*/
+    flex-direction: column; /* COMMIT 3*/
     justify-content: center;
 }
 
