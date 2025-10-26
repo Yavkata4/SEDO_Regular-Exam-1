@@ -5,6 +5,7 @@ const newQuoteButton = document.getElementById('new-quote-btn');
 
 // --- Quotes Data ---
 //Commit 1
+//Commit 2
 const quotes = [
     { text: "The greatest glory in living lies not in never falling, but in rising every time we fall.", author: "Nelson Mandela" },
     { text: "The way to get started is to quit talking and begin doing.", author: "Walt Disney" },
